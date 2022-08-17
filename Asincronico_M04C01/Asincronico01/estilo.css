@@ -1,0 +1,55 @@
+h1{
+    color:white;
+}
+body{
+    background-color: blue;
+    width:100%; 
+    text-align:center;
+}
+.input{
+    width: 450px;
+    height: 50px;
+    margin: 5px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 0px;
+    padding-right: 0px;
+    border: 0px 0px 0px 0px;
+    border-radius: 10px;
+    font-size: 18px;
+    background-color: white;
+}
+.boton-agregar{
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: rgb(255, 6, 46);
+}
+.boton-agregar:hover{
+opacity: 0.9;
+}
+.boton-remover{
+    width: 50px;
+    height: 50px;
+}
+.boton-editar{
+    width: 50px;
+    height: 50px;
+}
+.item-input{
+    /* width: 50px; */
+    height: 50px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: solid white;
+    border-radius: 10px;
+    font-size: 18px;
+    color: white;
+    background: none;
+
+}
+.item{
+    margin-bottom: 10px;
+}
